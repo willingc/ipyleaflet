@@ -1,0 +1,9 @@
+name: ipyleaflet_docs
+dependencies:
+- python=3.5
+- sphinx_rtd_theme
+- jupyter
+- pip:
+  - sphinx
+  - nbsphinx
+  - ipyleaflet
