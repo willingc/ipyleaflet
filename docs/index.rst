@@ -1,17 +1,16 @@
-.. ipyleaflet documentation master file, created by
-   sphinx-quickstart on Tue May 17 17:18:32 2016.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-Welcome to ipyleaflet's documentation!
-======================================
+==========
+ipyleaflet
+==========
 
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
-
+   installation
+   configuration
+   examples
+   changelog
 
 Indices and tables
 ==================
